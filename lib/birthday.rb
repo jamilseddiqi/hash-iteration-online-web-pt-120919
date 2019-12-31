@@ -28,7 +28,7 @@ def select_winner(passengers)
 end
 
 # birthday_kids = {
-#   "Timmy" => 9,
+#   "Timmy" => 12,
 #   "Sarah" => 6,
 #   "Amanda" => 27
 # }
@@ -40,4 +40,6 @@ def happy_birthday(birthday_kids)
   end
 end
 
+sfkjs f 
 
+sfkjs
